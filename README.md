@@ -1,176 +1,52 @@
-
 # Jonathon McDonnell
 
-### Business Intelligence | Data Analytics | AI & Automation Development
+**Business Intelligence Developer | Data Analyst | SQL · Power BI · Python**  
+San Antonio, Texas · MBA (Finance & Process Improvement) · B.S. Electrical Engineering · Six Sigma Green Belt
 
-**Developer Identity:** SolSystemsDev  
-**Location:** San Antonio, Texas  
-**Education:** MBA in Finance | Bachelor's in Engineering  
-**Certification:** Six Sigma Green Belt  
+I develop reproducible analytics systems that transform operational and financial data into reliable management decisions. My background spans enterprise reporting, data integration, financial variance analysis, logistics and process improvement.
 
----
+**[LinkedIn](https://www.linkedin.com/in/jonathon-mcdonnell-a9265090/)** · **[Financial Analytics Project](https://github.com/SolSystemsDev/sql-powerbi-portfolio)** · **[Restaurant Analytics Project](https://github.com/SolSystemsDev/restaurant-performance-analytics)**
 
-## 👋 About Me
+## 📌 Published portfolio — start here
 
-I'm a business intelligence and data analytics professional with a background in engineering, finance, operational improvement, and enterprise reporting.
+| Project | What you can verify | Stack |
+|---|---|---|
+| **[Financial Budget vs. Actual Analytics](https://github.com/SolSystemsDev/sql-powerbi-portfolio)** | October–September fiscal model, department/GL expense variances, SQL aggregation, Python ETL, reconciliation, **11 passing automated tests** | SQL / SQLite, Python, DAX & Power Query examples, GitHub Actions |
+| **[Restaurant Performance Analytics](https://github.com/SolSystemsDev/restaurant-performance-analytics)** | Sales and labor KPI pipeline, synthetic order-level data, missing-data controls, executable Python and unit tests | Python / pandas, SQL, HTML reporting, GitHub Actions |
 
-My work focuses on transforming complex datasets into actionable intelligence, automating business processes, and developing systems that improve operational and financial decision-making.
+### Financial reporting preview
 
-My professional experience includes building enterprise dashboards, developing SQL-based reporting pipelines, integrating business systems, and automating financial and operational analytics.
+[![Monthly budget and actual expenses — FY2026 synthetic data](https://raw.githubusercontent.com/SolSystemsDev/sql-powerbi-portfolio/main/reports/charts/monthly_spend.svg)](https://github.com/SolSystemsDev/sql-powerbi-portfolio)
 
-I'm currently expanding into AI-assisted software development, multi-agent systems, cryptocurrency research tools, and independent analytics platforms.
+**FY2026 synthetic example:** $31.11M budget · $31.35M actual · $243.7K unfavorable expense variance. [See financial reporting methodology](https://github.com/SolSystemsDev/sql-powerbi-portfolio/blob/main/docs/data_model.md).
 
-Through **SolSystemsDev**, I'm building a portfolio of practical technologies at the intersection of:
+### Restaurant analytics preview
 
-- Data Analytics & Business Intelligence
-- Artificial Intelligence & Automation
-- Software & Systems Engineering
-- Financial Technology
-- Blockchain Data Analytics
-- Operational Research & Optimization
-- Probability, Game Theory & Decision Science
+[![Restaurant performance KPI preview — synthetic data](https://raw.githubusercontent.com/SolSystemsDev/restaurant-performance-analytics/main/reports/restaurant_kpi_preview.svg)](https://github.com/SolSystemsDev/restaurant-performance-analytics)
 
-I also have broad intellectual interests spanning history, philosophy, economics, politics, and strategic games. I enjoy exploring how complex systems develop, how people make decisions, and how analytical reasoning can improve our understanding of the world.
+**Synthetic example:** $56,425 net sales across 1,602 transactions. [See calculation assumptions and limits](https://github.com/SolSystemsDev/restaurant-performance-analytics/blob/main/docs/methodology.md).
 
----
+> Both public repositories contain synthetic data only. Functional HTML reports and tested pipelines are provided; **neither repository claims a verified Power BI Desktop .pbix**.
 
-## 🛠️ Technical Skills
+## 💼 Relevant professional background
 
-### Data Analytics & Engineering
+- **VIA Metropolitan Transit — BI Analyst:** executive budget/actual reporting, October–September fiscal modeling, GL and department reporting, automated month-end data preparation.
+- **Higginbotham — Data Analyst:** producer and agency commission reporting, Snowflake SQL and marketing/ERP record reconciliation, Power BI semantic-model usage analysis.
+- **Nexxis — Business Systems/Engineering:** logistics and inventory KPIs, SQL/Power BI automation, financial and supply-chain reporting.
 
-- SQL Server, T-SQL, Snowflake
-- Python, pandas
-- ETL Pipeline Development
-- Data Modeling & Transformation
-- Data Quality & Validation
-- Advanced Microsoft Excel
+My projects are independently developed demonstrations of transferable methods, not employer systems or employer-owned data.
 
-### Business Intelligence
+## 🛠️ Technical focus
 
-- Microsoft Power BI
-- DAX & Power Query (M)
-- Financial & Operational Dashboards
-- KPI Development & Monitoring
-- Budget vs. Actual Analysis
-- Automated Reporting Systems
+**Analytics and reporting:** SQL (T-SQL, Snowflake, SQLite), Power BI, DAX, Power Query (M), advanced Excel, financial variance analysis, KPI design.  
+**Data engineering:** Python/pandas, ETL, relational modeling, reconciliation, data quality tests, semantic models, Git/GitHub.  
+**Operational methods:** Lean Six Sigma, business systems/ERP reporting, requirements translation, process improvement.
 
-### AI & Automation
+## 🚀 Additional research and development interests
 
-- AI-Agent Workflow Design
-- Large Language Model (LLM) Integration Research
-- Multi-Agent Coordination
-- AI-Assisted Software Development
-- Research & Reporting Automation
-- Evidence Verification & Risk Assessment
-- Human-in-the-Loop Decision Systems
+Alongside the published BI portfolio, I am exploring AI-assisted analytics workflows, multi-agent decision-support research, blockchain/on-chain risk analysis, and applied probability. These are **ongoing research and prototype areas**, not claims of completed production integrations.
 
-### Business Systems & Operations
-
-- ERP & Enterprise Systems Integration
-- Business Process Improvement
-- Operational Performance Analytics
-- Financial Reporting
-- Inventory & Logistics Analytics
-- Lean Six Sigma Methodologies
-
----
-
-## 🚀 Featured Development Projects
-
-### 1. Scientific Operations Lab (SOL)
-
-**Restaurant Analytics & Operational Intelligence**
-
-Developing a data-driven analytics service designed to help restaurant operators identify inefficiencies, improve profitability, and make better operational decisions.
-
-**Development Areas:**
-
-- Sales & Revenue Performance Analytics
-- Labor Efficiency & Staffing Analysis
-- Menu Engineering & Profitability Evaluation
-- Automated Management Reporting
-- Operational Performance Diagnostics
-- Restaurant KPI Monitoring
-- Data Readiness & Quality Assessment
-
-**Technologies:** SQL, Python, Power BI, Excel, AI-Assisted Analytics
-
-**Status:** Active Development & Synthetic-Data Testing
-
----
-
-### 2. Multi-Agent Research Framework
-
-**AI Research, Coordination & Decision Support**
-
-Researching and prototyping coordinated AI-agent systems that perform specialized analysis, validate findings, and consolidate results into structured decision-support reports.
-
-**Development Areas:**
-
-- Specialized AI Research Agents
-- Multi-Agent Communication Protocols
-- Automated Research Scheduling
-- Evidence & Source Verification
-- Risk Assessment Frameworks
-- Structured Reporting Systems
-- Human Approval & Oversight Controls
-- Agent Performance Evaluation
-
-**Technologies:** Python, LLMs, APIs, JSON, Automation Frameworks
-
-**Status:** Research & Prototyping
-
----
-
-### 3. Solana On-Chain Risk Research
-
-**Blockchain Analytics & Cryptocurrency Risk Assessment**
-
-Researching tools and methodologies for evaluating cryptocurrency tokens, wallet activity, and on-chain market risks.
-
-The objective is to develop transparent, evidence-based methods for investigating blockchain activity and identifying potential investment risks.
-
-**Research Areas:**
-
-- Token Holder Distribution
-- Wallet Concentration Analysis
-- Linked-Wallet & Transaction Clustering
-- Liquidity & Market Capitalization
-- Token Administrative Permissions
-- Public Wallet Activity
-- Trading Signal Validation
-- Cryptocurrency Risk Scoring
-- Paper Trading & Strategy Evaluation
-
-**Technologies:** Python, Solana Blockchain Data, Public APIs, Data Visualization
-
-**Status:** Educational Research & Tool Exploration
-
-**Risk Disclaimer:** Research and analytical demonstrations are not financial advice. No automated live-trading capabilities are represented by this repository.
-
----
-
-## 💼 Professional Experience Highlights
-
-### Enterprise Business Intelligence
-
-- Developed enterprise Power BI reporting solutions integrating SQL, financial records, and operational data.
-- Automated recurring financial and operational reporting workflows.
-- Reduced preparation time by more than 90% for selected reporting processes.
-- Developed financial dashboards supporting budget monitoring, expense analysis, and operational planning.
-
-### Data Engineering & Business Systems
-
-- Built SQL extraction and transformation processes.
-- Developed reporting solutions involving enterprise operational and financial systems.
-- Improved data validation, reporting consistency, and accessibility.
-- Supported inventory, logistics, and financial analytics initiatives.
-
-### Operational Improvement
-
-- Applied engineering and Lean Six Sigma principles to operational reporting and business processes.
-- Worked with cross-functional stakeholders to translate business requirements into analytical solutions.
-- Developed KPI frameworks supporting management decision-making.
+I am also developing Scientific Operations Lab (SOL), an independent restaurant analytics service; the public restaurant repository is a synthetic demonstration rather than client work.
 
 ---
 
@@ -262,66 +138,24 @@ I'm interested in developing practical tools that make these concepts easier to 
 
 ---
 
-## 🔬 Current Development Focus
 
-My current technical development roadmap includes:
+## 🗂️ Development roadmap
 
-1. Building reproducible SQL and Python analytics projects.
-2. Developing automated business intelligence reporting systems.
-3. Creating modular AI-agent architectures.
-4. Exploring secure API integrations and data pipelines.
-5. Developing blockchain risk research methodologies.
-6. Designing accessible dashboards for analytical tools.
-7. Publishing documented projects with synthetic or publicly available data.
-8. Exploring probability, game theory, and decision-science applications through Python.
+| Repository | Status |
+|---|---|
+| [sql-powerbi-portfolio](https://github.com/SolSystemsDev/sql-powerbi-portfolio) | Published; Module 1 v0.1 tested; Modules 2–4 planned |
+| [restaurant-performance-analytics](https://github.com/SolSystemsDev/restaurant-performance-analytics) | Published; initial synthetic analytics demo tested |
+| ai-agent-framework | Research / planned public release |
+| solana-risk-analytics | Research / planned public release |
+| poker-theory-lab | Planned |
+| decision-science-lab | Planned |
 
----
+## 🎯 Opportunities and collaboration
 
-## 📂 Repository Roadmap
+Interested in **Data Analyst, BI Analyst/Developer, Financial Analyst, Business Systems Analyst**, and related analytics engineering roles. Location preference: Texas-eligible remote or San Antonio-area onsite/hybrid.
 
-The following repositories are planned or in development:
-
-| Repository | Focus |
-|------------|-------|
-| `restaurant-performance-analytics` | Restaurant KPIs and operational analysis |
-| `sql-powerbi-portfolio` | SQL, DAX, and BI demonstrations |
-| `ai-agent-framework` | Multi-agent research architecture |
-| `solana-risk-analytics` | On-chain data and risk analysis |
-| `poker-theory-lab` | Poker mathematics, probability, and strategic analysis |
-| `decision-science-lab` | Simulation, optimization, and decision modeling |
-
-Projects will be published with documentation, implementation examples, and reproducible demonstrations as they become available.
+[Connect on LinkedIn](https://www.linkedin.com/in/jonathon-mcdonnell-a9265090/) · [Review published repositories](https://github.com/SolSystemsDev?tab=repositories)
 
 ---
 
-## 🎯 Professional Interests
-
-I'm particularly interested in opportunities involving:
-
-- Business Intelligence & Analytics
-- Data Engineering
-- Financial Analytics
-- AI & Intelligent Automation
-- Business Systems Analysis
-- Analytics Platform Development
-- Operational Research
-- Financial Technology
-- Applied Probability & Decision Science
-
-**Location Preferences:** Remote opportunities or positions based in San Antonio, Texas.
-
----
-
-## 🤝 Connect With Me
-
-**LinkedIn:** [Jonathon McDonnell](https://www.linkedin.com/in/jonathon-mcdonnell-a9265090/)
-
-**GitHub:** [SolSystemsDev](https://github.com/SolSystemsDev)
-
-I'm interested in professional opportunities, technical collaboration, open-source development, and applied analytics projects.
-
----
-
-### SolSystemsDev
-
-**Building systems that turn information into actionable intelligence.**
+**SolSystemsDev — Building systems that turn information into actionable intelligence.**
